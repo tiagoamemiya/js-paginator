@@ -1,0 +1,16 @@
+{
+  "name": "paginator",
+  "version": "1.0.0",
+  "description": "Módulo para paginação de resultados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paginate",
+     "node"
+  ],
+  "author": "Tiago Amemiya <tiago.amemiya@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
